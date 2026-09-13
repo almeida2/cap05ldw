@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Cap06tddApplication {
 	/**
 	 * Método main que inicia a aplicação
+	 * Ponto de entrada da aplicação java
 	 * 
 	 * @param args
 	 */
