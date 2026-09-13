@@ -5,7 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Cap06tddApplication {
-
+	/**
+	 * Método main que inicia a aplicação
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		SpringApplication.run(Cap06tddApplication.class, args);
 	}
