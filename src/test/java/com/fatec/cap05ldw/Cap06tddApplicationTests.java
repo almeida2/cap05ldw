@@ -10,7 +10,7 @@ class Cap06tddApplicationTests {
 
 	@Test
 	void contextLoads() {
-		fail("Falha intencional na configuracao do contexto");
+
 	}
 
 }
