@@ -8,6 +8,7 @@ public class Cap06tddApplication {
 	/**
 	 * Método main que inicia a aplicação
 	 * Ponto de entrada da aplicação java
+	 * Inicia a aplicação no localhost:8080
 	 * 
 	 * @param args
 	 */
