@@ -1,5 +1,7 @@
 package com.fatec.cap05ldw;
 
+import static org.junit.jupiter.api.Assertions.fail;
+
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -8,6 +10,7 @@ class Cap06tddApplicationTests {
 
 	@Test
 	void contextLoads() {
+		fail("Falha intencional na configuracao do contexto");
 	}
 
 }
