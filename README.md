@@ -5,6 +5,7 @@
 
 Fatec Diadema - Curso - Desenvolvimento de Software Multiplataforma - Disciplina LDW <p>
 Grupo - Jose da Silva Xavier, Carlos Alberto <p>
+## Objetivo
 API de gerenciamento de clientes - responsável por fornecer endpoints de operações CRUD para integração com a interface de usuário.
 
 ## 🚀 Tecnologias Utilizadas
