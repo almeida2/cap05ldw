@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 permissions:
   contents: read
-  dependency-graph: write
+  dependency-snapshots: write
   
 jobs:
   build: # Este é o nome do check ("build") que você adicionará na proteção de branch
