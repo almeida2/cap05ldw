@@ -7,12 +7,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class Cap06tddApplicationTests {
-	/**
-	 * Teste que verifica se o contexto da aplicação foi carregado corretamente
-	 */
+
 	@Test
 	void contextLoads() {
-
+		fail("Falha intencional na configuracao do contexto");
 	}
 
 }
