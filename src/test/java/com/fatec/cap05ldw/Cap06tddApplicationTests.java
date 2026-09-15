@@ -10,6 +10,7 @@ class Cap06tddApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Contexto carregado com sucesso!");
 		fail("Teste não implementado!");
 	}
 }
