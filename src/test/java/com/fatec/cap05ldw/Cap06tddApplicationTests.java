@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class Cap06tddApplicationTests {
-
+	// teste
 	@Test
 	void contextLoads() {
 
